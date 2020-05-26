@@ -4,6 +4,10 @@ In this repo i will create a snake game using python language. In this project i
 
 Play the game and learn something new with sourse code and imporve a game using your logic.
 
+## Screen Shots
+
+<a href="https://github.com/yogeshnile/Snake-game-in-python/blob/master/Images/1.png"> <img src="https://github.com/yogeshnile/Snake-game-in-python/blob/master/Images/1.png" title="Snake Game" /></a>
+
 
 
 ## Contributing
