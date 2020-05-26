@@ -8,7 +8,7 @@ Play the game and learn something new with sourse code and imporve a game using 
 
 <a href="https://github.com/yogeshnile/Snake-game-in-python/blob/master/Images/1.png"> <img src="https://github.com/yogeshnile/Snake-game-in-python/blob/master/Images/1.png" title="Snake Game" /></a>
 
-
+<a href="https://github.com/yogeshnile/Snake-game-in-python/blob/master/Images/2.png"> <img src="https://github.com/yogeshnile/Snake-game-in-python/blob/master/Images/2.png" title="@YogeshNile" /></a>
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
