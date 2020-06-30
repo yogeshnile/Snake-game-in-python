@@ -1,4 +1,4 @@
-# Snake-game-in-python
+# Snake game in python :notebook:
 In this repo i will create a snake game using python language. In this project i will use [pygame](https://pypi.org/project/pygame/) library and use computer graphics in this game.
 
 [![](https://camo.githubusercontent.com/2fb0723ef80f8d87a51218680e209c66f213edf8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://python.org)
@@ -28,7 +28,7 @@ Play the game and learn something new with sourse code and imporve a game using 
 
 ```
 
-## Screen Shots
+## Screen Shots :camera_flash:
 
 <a href="https://github.com/yogeshnile/Snake-game-in-python/blob/master/Images/1.png"> <img src="https://github.com/yogeshnile/Snake-game-in-python/blob/master/Images/1.png" title="Snake Game" /></a>
 
